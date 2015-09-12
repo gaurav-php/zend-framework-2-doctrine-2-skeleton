@@ -8,9 +8,6 @@ module.exports = function (grunt) {
             composer_update: {
                 exec: 'php composer.phar self-update; php composer.phar update'
             },
-            regenerate_entities: {
-                exec: 'sh regenerateEntities.sh'
-            },
             update_schema: {
                 exec: './vendor/bin/doctrine-module orm:schema-tool:update --complete --force'
             },
