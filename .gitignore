@@ -1,3 +1,7 @@
+vendor/
+bower_components/
+node_modules/
+composer.phar
 .idea/
 *.bak
-
+composer.lock

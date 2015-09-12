@@ -7,8 +7,12 @@ This is a Skeleton Application with Doctrine 2 ready to use along with the follo
 - Bower
 - Grunt
 - Bootstrap
+- A ready to use User entity
+- ModelInterface
 
 The configuration file for Doctrine2 is stored in: config/autoload/global.php
+
+Please note: ensure you have 'npm' as an alias for NodeJS components.
 
 There are some pre-defined Grunt tasks ready to use straight away:
 
