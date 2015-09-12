@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "description": "",
+    "name": "{PROJECT_NAME}",
+    "description": "{PROJECT_DESCRIPTION}",
     "authors": [
         {
             "name": "Gaurav Malhotra",

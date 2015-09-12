@@ -1,5 +1,9 @@
 #Zend Framework 2 and Doctrine 2
 
+The idea of this skeleton to we can develop without having to do manual installation work.
+When starting a new project we spend a lot of our time configuring and installing.
+Here the aim is to reduce the pain and to get on with what we need to do.
+
 This is a Skeleton Application with Doctrine 2 ready to use along with the following:
 
 - NodeJS
@@ -26,3 +30,7 @@ To get started, simply run: 'sh installation.sh'
 Please note: ensure you have 'npm' as an alias for NodeJS components.
 
 This installation is aimed at Linux/Mac OSX platforms.
+
+
+For any questions or problems feel free to email me:
+Gaurav Malhotra - gaurav@level5websites.com
