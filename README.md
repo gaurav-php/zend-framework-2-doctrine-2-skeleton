@@ -1,5 +1,4 @@
 #Zend Framework 2 and Doctrine 2
-### Work in progress
 
 This is a Skeleton Application with Doctrine 2 ready to use along with the following:
 
@@ -12,8 +11,6 @@ This is a Skeleton Application with Doctrine 2 ready to use along with the follo
 
 The configuration file for Doctrine2 is stored in: config/autoload/global.php
 
-Please note: ensure you have 'npm' as an alias for NodeJS components.
-
 There are some pre-defined Grunt tasks ready to use straight away:
 
 1. grunt composer_update
@@ -22,3 +19,10 @@ There are some pre-defined Grunt tasks ready to use straight away:
 4. grunt orm_info
 
 All language files are stored in the Common module.
+
+##Instructions
+To get started, simply run: 'sh installation.sh'
+
+Please note: ensure you have 'npm' as an alias for NodeJS components.
+
+This installation is aimed at Linux/Mac OSX platforms.
