@@ -1,6 +1,6 @@
 #Zend Framework 2 and Doctrine 2
 
-The idea of this skeleton to we can develop without having to do manual installation work.
+The idea of this skeleton is so that we can develop without having to do much manual installation work.
 When starting a new project we spend a lot of our time configuring and installing.
 Here the aim is to reduce the pain and to get on with what we need to do.
 
