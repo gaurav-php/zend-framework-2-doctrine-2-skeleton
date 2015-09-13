@@ -16,11 +16,11 @@ echo "\nLet's get your components all linked up."
 
 cd public
 
-ln -s ../bower_components/jquery/dist public/jquery
-ln -s ../bower_components/bootstrap/dist/css public/css
-ln -s ../bower_components/bootstrap/dist/fonts public/fonts
-ln -s ../bower_components/bootstrap/dist/js public/js
-ln -s ../bower_components/holderjs/src public/holderjs
+ln -s ../bower_components/jquery/dist jquery
+ln -s ../bower_components/bootstrap/dist/css css
+ln -s ../bower_components/bootstrap/dist/fonts fonts
+ln -s ../bower_components/bootstrap/dist/js js
+ln -s ../bower_components/holderjs/src holderjs
 
 cd ../
 
